@@ -1,0 +1,10 @@
+E:\dev\dotnetcore\servicebus\ServiceBus\bin\Debug\netcoreapp2.0\ServiceBus.deps.json
+E:\dev\dotnetcore\servicebus\ServiceBus\bin\Debug\netcoreapp2.0\ServiceBus.runtimeconfig.json
+E:\dev\dotnetcore\servicebus\ServiceBus\bin\Debug\netcoreapp2.0\ServiceBus.runtimeconfig.dev.json
+E:\dev\dotnetcore\servicebus\ServiceBus\bin\Debug\netcoreapp2.0\ServiceBus.dll
+E:\dev\dotnetcore\servicebus\ServiceBus\obj\Debug\netcoreapp2.0\ServiceBus.csproj.CoreCompileInputs.cache
+E:\dev\dotnetcore\servicebus\ServiceBus\obj\Debug\netcoreapp2.0\ServiceBus.AssemblyInfoInputs.cache
+E:\dev\dotnetcore\servicebus\ServiceBus\obj\Debug\netcoreapp2.0\ServiceBus.AssemblyInfo.cs
+E:\dev\dotnetcore\servicebus\ServiceBus\bin\Debug\netcoreapp2.0\ServiceBus.pdb
+E:\dev\dotnetcore\servicebus\ServiceBus\obj\Debug\netcoreapp2.0\ServiceBus.dll
+E:\dev\dotnetcore\servicebus\ServiceBus\obj\Debug\netcoreapp2.0\ServiceBus.pdb

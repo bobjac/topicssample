@@ -1,0 +1,11 @@
+E:\dev\dotnetcore\ServiceBusReceipt\bin\Debug\netcoreapp2.0\ServiceBusReceipt.deps.json
+E:\dev\dotnetcore\ServiceBusReceipt\bin\Debug\netcoreapp2.0\ServiceBusReceipt.runtimeconfig.json
+E:\dev\dotnetcore\ServiceBusReceipt\bin\Debug\netcoreapp2.0\ServiceBusReceipt.runtimeconfig.dev.json
+E:\dev\dotnetcore\ServiceBusReceipt\bin\Debug\netcoreapp2.0\ServiceBusReceipt.dll
+E:\dev\dotnetcore\ServiceBusReceipt\obj\Debug\netcoreapp2.0\ServiceBusReceipt.csproj.CoreCompileInputs.cache
+E:\dev\dotnetcore\ServiceBusReceipt\obj\Debug\netcoreapp2.0\ServiceBusReceipt.AssemblyInfoInputs.cache
+E:\dev\dotnetcore\ServiceBusReceipt\obj\Debug\netcoreapp2.0\ServiceBusReceipt.AssemblyInfo.cs
+E:\dev\dotnetcore\ServiceBusReceipt\bin\Debug\netcoreapp2.0\ServiceBusReceipt.pdb
+E:\dev\dotnetcore\ServiceBusReceipt\obj\Debug\netcoreapp2.0\ServiceBusReceipt.csprojResolveAssemblyReference.cache
+E:\dev\dotnetcore\ServiceBusReceipt\obj\Debug\netcoreapp2.0\ServiceBusReceipt.dll
+E:\dev\dotnetcore\ServiceBusReceipt\obj\Debug\netcoreapp2.0\ServiceBusReceipt.pdb
